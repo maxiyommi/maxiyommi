@@ -1,4 +1,14 @@
-### Hi there 👋
+## Hola! soy Maxi 👋
+
+Ingeniería 🔧 Desarrollos en IA 💡 Docencia universitaria 📢
+
+[![maxiyommi's github stats](https://github-readme-stats.vercel.app/api?username=maxiyommi&count_private=true&include_all_commits=true&theme=radical)](https://google.com)
+
+## Escribime:
+[<img align="left" alt="codeSTACKr | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
+<br/>
+
+[linkedin]: https://www.linkedin.com/in/myommi
 
 <!--
 **maxiyommi/maxiyommi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.

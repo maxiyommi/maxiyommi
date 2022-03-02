@@ -4,7 +4,7 @@ Ingeniería 🔧 Desarrollos en IA 💡 Docencia universitaria 📢
 
 [![maxiyommi's github stats](https://github-readme-stats.vercel.app/api?username=maxiyommi&count_private=true&include_all_commits=true&theme=radical)](https://google.com)
 
-## Habilidades:
+## Habilidades
 
 * Visión artificial (OpenCV - Darknet - Yolo)
 * Deep Learning (TensorFlow - PyTorch)
@@ -13,7 +13,7 @@ Ingeniería 🔧 Desarrollos en IA 💡 Docencia universitaria 📢
 * Docker
 * API Developer (Flask - MySQL - PostgreSQL)
 
-## Conoceme más en:
+## Conoceme más
 [<img align="left" alt="codeSTACKr | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
 <br/>
 

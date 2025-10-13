@@ -1,6 +1,6 @@
 ## ¡Hola! Soy Maxi 👋
 
-🧠 **Ingeniero | Desarrollador en IA | Docente Universitario | Emprendedor Tech**
+**Ingeniero | Desarrollador en IA | Docente Universitario | Emprendedor Tech**
 
 Apasionado por la tecnología, la automatización y la educación.  
 Combino experiencia en **Inteligencia Artificial**, **IoT**, **automatización de procesos** y **formación tecnológica** para crear soluciones innovadoras y escalables.
@@ -20,15 +20,11 @@ Combino experiencia en **Inteligencia Artificial**, **IoT**, **automatización d
 - Integración de datos y APIs: **Flask**, **FastAPI**, **PostgreSQL**, **MySQL**
 - Contenedores y despliegue: **Docker**, **Cloud (AWS / IBM Cloud)**
 
----
-
-### ⚙️ Automatización y Arquitecturas Inteligentes
+#### ⚙️ Automatización y Arquitecturas Inteligentes
 Diseño y desarrollo de flujos inteligentes con **n8n**, **LLMs** y **agentes autónomos**, integrando:
 - IA + RPA (automatización de tareas repetitivas)
 - Generación y análisis de datos con LLMs
 - Integración de modelos personalizados con APIs y servicios cloud
-
----
 
 ### 📊 Estadísticas de GitHub
 

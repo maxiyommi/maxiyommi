@@ -1,57 +1,61 @@
-## ¡Hola! Soy Maxi 👋
+# Maximiliano Yommi · maxiyommi
 
-**Ingeniero | Desarrollador en IA | Docente Universitario | Emprendedor Tech**
+**CEO & Co-founder @ [Cumbre IA](https://cumbre.cloud) · Ingeniero · Docente Universitario**
 
-Apasionado por la tecnología, la automatización y la educación.  
-Combino experiencia en **Inteligencia Artificial**, **IoT**, **automatización de procesos** y **formación tecnológica** para crear soluciones innovadoras y escalables.
+Construyo agentes de IA y sistemas de automatización para PyMEs argentinas.  
+Fundé **Cumbre IA** para que las empresas locales accedan a automatización inteligente real — no demos, sino flujos en producción que facturan, concilian y monitorean por ellas.
 
 ---
 
-### 🚀 Tecnologías y Habilidades
+### 🏗️ Proyectos activos
 
-#### 🤖 Inteligencia Artificial y Deep Learning
-- Visión Artificial: **OpenCV**, **Darknet**, **YOLO**
-- Modelos de Deep Learning: **TensorFlow**, **PyTorch**
-- Modelos de Lenguaje y Agentes: **LLMs**, **LangChain**, **LangGraph**, **OpenAI API**
-- Orquestación y Automatización: **n8n**, **API REST**, **webhooks**
+| Proyecto | Descripción | Stack |
+|---|---|---|
+| **[Cumbre IA](https://cumbre.cloud)** | Agencia de automatización con IA para PyMEs argentinas | n8n · Supabase · Next.js · Anthropic API |
+| **FacturaScan** | Procesamiento automático de facturas con validación AFIP/ARCA | n8n · Gemini Vision · Google Drive |
+| **Monitor INPI** | SaaS de monitoreo de marcas registradas con alertas automáticas | Next.js · Supabase · Mercado Pago |
+| **Motor de Similaridad Marcaria** | Engine de comparación fonética, visual e ideológica para marcas INPI | JavaScript · n8n · NLP |
+| **[signal-systems](https://github.com/maxiyommi/signal-systems)** | Material práctico de Señales y Sistemas · UNTREF Ingeniería de Sonido | Python · Jupyter |
 
-#### 🧩 Desarrollo y Ciencia de Datos
-- Python Científico: **NumPy**, **Pandas**, **SciPy**
-- Integración de datos y APIs: **Flask**, **FastAPI**, **PostgreSQL**, **MySQL**
-- Contenedores y despliegue: **Docker**, **Cloud (AWS / IBM Cloud)**
+---
 
-#### ⚙️ Automatización y Arquitecturas Inteligentes
-Diseño y desarrollo de flujos inteligentes con **n8n**, **LLMs** y **agentes autónomos**, integrando:
-- IA + RPA (automatización de tareas repetitivas)
-- Generación y análisis de datos con LLMs
-- Integración de modelos personalizados con APIs y servicios cloud
+### ⚙️ Stack actual
 
-### 📊 Estadísticas de GitHub
+#### Automatización e IA
+`n8n` `Anthropic API (Claude)` `Gemini API` `LLMs` `Agentes autónomos` `Multi-agent systems`
+
+#### Backend & Datos
+`Supabase` `PostgreSQL` `FastAPI` `REST APIs` `Webhooks`
+
+#### Frontend & Producto
+`Next.js 14` `React` `TypeScript` `Tailwind CSS`
+
+#### DevOps & Cloud
+`Docker` `AWS` `Vercel`
+
+#### Dominio regulatorio AR
+`AFIP / ARCA` `INPI` `Mercado Pago Suscripciones`
+
+---
+
+### 📊 GitHub Stats
 
 [![Maxi's GitHub stats](https://github-readme-stats.vercel.app/api?username=maxiyommi&show_icons=true&count_private=true&include_all_commits=true&theme=radical)](https://github.com/maxiyommi)
 
 ---
 
-### 🧠 Actualmente explorando
-- Arquitecturas híbridas con **LLMs + Agentes**  
-- Integración de IA en entornos **IoT / Edge Computing (ESP32, Raspberry Pi)**  
-- Educación tecnológica con enfoque práctico en **IA aplicada y automatización**  
+### 🧠 Explorando ahora
+- Arquitecturas **multi-agente** con Claude (Agent Teams)  
+- **MCP** (Model Context Protocol) para conectar agentes con herramientas internas  
+- Automatización de procesos regulatorios argentinos con IA  
 
 ---
 
-### 📫 Conectemos
+### 📫 Contacto
 
-<a href="https://www.linkedin.com/in/myommi/" target="_blank">
-  <img align="left" alt="LinkedIn" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" />
-</a>
-
-<a href="https://github.com/maxiyommi" target="_blank">
-  <img align="left" alt="GitHub" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" />
-</a>
-
-<br/><br/>
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-myommi-0077B5?style=flat&logo=linkedin)](https://www.linkedin.com/in/myommi/)
+[![Web](https://img.shields.io/badge/Web-cumbre.cloud-000000?style=flat&logo=vercel)](https://cumbre.cloud)
 
 ---
 
-💡 _“La tecnología más poderosa es aquella que une automatización, inteligencia y propósito.”_  
-
+> _"La automatización no reemplaza el criterio — lo amplifica."_

@@ -63,6 +63,14 @@ Aplicación práctica de teoría de señales
 
 ---
 
+### 🤖 Claude Code Skills                                                           
+   
+**[MercadoLibre Auto Research](https://skills.sh/maxiyommi/mercadolibre-auto-research/mercadolibre-auto-research)** 
+Skill de investigación de mercado para vehículos usados                             
+→ Análisis de competencia + pricing óptimo en MercadoLibre Argentina
+
+---
+
 ## ⚙️ Stack
 
 ### 🧠 AI Systems & Orchestration

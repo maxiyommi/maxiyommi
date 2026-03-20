@@ -112,6 +112,7 @@ Aplicación práctica de teoría de señales
 
 ## 🌐 Presencia
 
+- [Portfolio](https://maxiyommi.github.io/portfolio_insight/)   
 - [LinkedIn](https://www.linkedin.com/in/myommi/)
 - [Web](https://cumbre.cloud)
 
